@@ -1,0 +1,16 @@
+{
+    "text.autoconfig.armorchroma.title": "Настройки Armor Chroma",
+    "text.autoconfig.armorchroma.option.enabled": "Мод включен",
+    "text.autoconfig.armorchroma.option.renderGlint": "Отображать чары",
+    "text.autoconfig.armorchroma.option.renderGlint.@Tooltip": "Отобразить зачарованный блеск",
+    "text.autoconfig.armorchroma.option.glintIntensity": "Заметность чар",
+    "text.autoconfig.armorchroma.option.renderBackground": "Отображать фон",
+    "text.autoconfig.armorchroma.option.renderBackground.@Tooltip": "Отображать пустые значки брони, если ваша броня меньше 20",
+    "text.autoconfig.armorchroma.option.compressBar": "Сжать в одну полоску",
+    "text.autoconfig.armorchroma.option.compressBar.@Tooltip": "Сжимать полоски в одну цветную, если ваша броня превысит 20",
+    "text.autoconfig.armorchroma.option.displayedArmorCap": "Количество отображаемых очков брони",
+    "text.autoconfig.armorchroma.option.displayedArmorCap.@Tooltip": "Сколько очков брони будет отображаться в интерфейсе (20 - одна полоска)",
+    "text.autoconfig.armorchroma.option.reverse": "Порядок отображение от головы до ног",
+
+    "armorchroma.tooltip.material": "Материал брони: %s"
+}
